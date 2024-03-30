@@ -1,0 +1,19 @@
+#linkC {
+    color: #0192b5;
+    font-size: 2em;
+}
+#linkB {
+    color: #0192b5;
+}
+h1 {
+    font-size: 4em !important;
+    color: orange !important;
+}
+
+a {
+    color: #0192b5;
+}
+
+.profile {
+    border-radius: 50%;
+}
